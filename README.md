@@ -16,3 +16,7 @@
 
 ##Tool
 - [Markdown简介(内容转载自千里码)](Tool/Markdown简介(内容转载自千里码).md)
+
+##Experience
+- [如果再重新学一次编程，我的学习路径](Experience/如果再重新学一次编程，我的学习路径.md)
+- [程序员，信息源](Experience/程序员，信息源.md)
