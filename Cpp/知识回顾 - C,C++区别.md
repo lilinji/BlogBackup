@@ -469,7 +469,7 @@ int *x = (int*) malloc(sizeof(int) * 10);
 最后：示例代码Github链接
 ---
 ---
-- [链接地址](https://github.com/CheYulin/CPP11Study/tree/master/DifferInCppC)
+- [链接地址](https://github.com/YcheLanguageStudio/CPP11Study/tree/master/Guidance/DifferInCppC)
 - 具体文件信息可以参看所给链接目录下 `ReadMe.md`中的说明
 
 参考文章

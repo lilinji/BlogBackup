@@ -276,13 +276,10 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:./build/
 g++ say_hello_main.cpp build/libsay.so -o build/say_hello_main_with_so
 ```
 
-
-
-
 最后：我的实验代码和脚本Github链接
 ---
 ---
-- [链接地址](https://github.com/CheYulin/CPP11Study/tree/master/GccUsage)
+- [链接地址](https://github.com/YcheLanguageStudio/CPP11Study/tree/master/Guidance/GccUsage)
 - 具体文件信息可以参看所给链接目录下 `ReadMe.md` 中的说明
 
 参考文章
