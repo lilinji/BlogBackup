@@ -4,6 +4,10 @@
 - [Blog](http://blog.cheyulin.me/)
 - [简书](http://www.jianshu.com/users/dcdc13bec598/latest_articles)
 
+## Contest Summary
+
+- [第三届阿里中间件总结-rapids团队-港科大-季军](CompSummary/第三届阿里中间件总结-rapids团队-港科大-季军.md)
+
 ## Cpp
 
 - [工具介绍 - C++工作环境](Cpp/工具介绍_C++工作环境.md)
