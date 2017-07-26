@@ -6,7 +6,7 @@
 
 ## Contest Summary
 
-- [第三届阿里中间件总结-rapids团队-港科大-季军](CompSummary/第三届阿里中间件总结-rapids团队-港科大-季军.md)
+- [第三届阿里中间件总结 - rapids团队 - 港科大 - 季军](CompSummary/第三届阿里中间件总结-rapids团队-港科大-季军.md)
 
 ## Cpp
 
